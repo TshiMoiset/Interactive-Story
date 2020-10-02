@@ -47,7 +47,7 @@ namespace Interaktive_story
             if (Svar2 == "ja")
             {
                 Console.WriteLine();
-                Typewrite("Ait bror, ska jag ta en cola till dig!");
+                Typewrite("Ait bror, ska jag ta en cola till dig?");
                 Console.WriteLine();
 
                 nej();
